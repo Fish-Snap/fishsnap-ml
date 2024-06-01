@@ -1,0 +1,50 @@
+item {
+    name: "Ikan_Bawal_Hitam",
+    id: 1,
+    display_name: "Ikan_Bawal_Hitam"
+}
+item {
+    name: "Ikan_Cipa_Cipa",
+    id: 2,
+    display_name: "Ikan_Cipa_Cipa"
+}
+item {
+    name: "Ikan_Kembung",
+    id: 3,
+    display_name: "Ikan_Kembung"
+}
+item {
+    name: "Ikan_Kenyar",
+    id: 4,
+    display_name: "Ikan_Kenyar"
+}
+item {
+    name: "Ikan_Kuwe",
+    id: 5,
+    display_name: "Ikan_Kuwe"
+}
+item {
+    name: "Ikan_Salem",
+    id: 6,
+    display_name: "Ikan_Salem"
+}
+item {
+    name: "Ikan_Sebelah",
+    id: 7,
+    display_name: "Ikan_Sebelah"
+}
+item {
+    name: "Ikan_Selar_Bulat",
+    id: 8,
+    display_name: "Ikan_Selar_Bulat"
+}
+item {
+    name: "Ikan_Tenggiri_Papan",
+    id: 9,
+    display_name: "Ikan_Tenggiri_Papan"
+}
+item {
+    name: "Ikan_Tuna",
+    id: 10,
+    display_name: "Ikan_Tuna"
+}
