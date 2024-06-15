@@ -11,7 +11,7 @@
   We propose to create an application that can classify fish, help the community in recommending the use of fish, and help generate income for fishermen or fish traders. Our focus is to educate the public and help fisheries practitioners.
   Our goal is to create an interactive program that can be easily accessed by everyone.
 </div>
-<hr style="border:1px>
+<hr>
 
 ### Function Dependencies
 
@@ -23,19 +23,17 @@
 | Pandas | ```2.0.3``` |
 | Matplotlib | ```3.7.1``` |
 
-<hr style="border:1px>
 ### Transfer Learning SSD MobileNetV2 FPNLite
 
 <div align="justify">
     SSD MobileNetV2 FPNLite from TensorFlow Model Zoo is a machine learning method in which a SSD (Single Shot MultiBox Detector) pre-training model that uses MobileNetV2 architecture with the addition of FPNLite (Feature Pyramid Network) is adapted for object detection. In this context, SSD is an object detection algorithm that enables fast and efficient object detection, while MobileNetV2 is a lightweight neural network designed for resource-constrained devices. FPNLite, as a modification of Feature Pyramid Network, improves the model's ability to detect objects at various scales. By using pre-trained models from TensorFlow Model Zoo, users can speed up the process of developing their object detection models by utilizing pre-learned knowledge, reduce the need for large training data and computation time, and improve detection accuracy on their specific tasks.
 </div>
-<hr style="border:1px>
 
 ### Dataset
 
 <div align="justify">
 We augmented the dataset using Roboflow to increase its diversity. The dataset was then divided into a training set and a testing set. The training set is used to train the MobileNetV2 FPNLite SSD model, while the testing set is used to evaluate its performance.
-</div><br/>
+</div>
 
 | Name Fish | Scientific Name |
 |---------|---------|
@@ -50,7 +48,6 @@ We augmented the dataset using Roboflow to increase its diversity. The dataset w
 | Ikan Tenggiri Papan | Scomberomorus guttatus |
 | Ikan Tuna | Thunnus albacares |
 
-<hr style="border:1px>
 ## The equipment that we used
 
 <div align="center">
