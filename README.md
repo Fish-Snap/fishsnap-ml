@@ -14,7 +14,7 @@
 <hr>
 
 ### Function Dependencies
-
+---
 | Library | Version |
 |---------|---------|
 | Tensorflow | ```2.8.0``` |
@@ -24,6 +24,7 @@
 | Matplotlib | ```3.7.1``` |
 
 ### Transfer Learning SSD MobileNetV2 FPNLite
+---
 
 <div align="justify">
     SSD MobileNetV2 FPNLite from TensorFlow Model Zoo is a machine learning method in which a SSD (Single Shot MultiBox Detector) pre-training model that uses MobileNetV2 architecture with the addition of FPNLite (Feature Pyramid Network) is adapted for object detection. In this context, SSD is an object detection algorithm that enables fast and efficient object detection, while MobileNetV2 is a lightweight neural network designed for resource-constrained devices. FPNLite, as a modification of Feature Pyramid Network, improves the model's ability to detect objects at various scales. By using pre-trained models from TensorFlow Model Zoo, users can speed up the process of developing their object detection models by utilizing pre-learned knowledge, reduce the need for large training data and computation time, and improve detection accuracy on their specific tasks.
@@ -31,13 +32,11 @@
 <hr>
 
 ### Dataset
-
+---
 <div align="justify">
 We augmented the dataset using Roboflow to increase its diversity. The dataset was then divided into a training set and a testing set. The training set is used to train the MobileNetV2 FPNLite SSD model, while the testing set is used to evaluate its performance.
-
 </div>
-
-
+$~$
 | Name Fish | Scientific Name |
 |---------|---------|
 | Ikan Bawal Hitam | Parastromateus niger |
