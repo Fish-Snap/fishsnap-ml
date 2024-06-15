@@ -28,4 +28,4 @@
 <div align="center">
   <img src="https://github.com/Fish-Snap/fishsnap-ml/assets/65043099/460357b9-43ee-4b0a-9449-8b7da13a849d" width="80px">
   <img src="https://github.com/Fish-Snap/fishsnap-ml/assets/65043099/0b4d9a33-a766-4fbe-8535-234b04779e67" width="70px">
-</div>
+</div> 
